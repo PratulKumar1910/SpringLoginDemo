@@ -1,4 +1,4 @@
-package com.lowes.login.repository.model;
+package com.lowes.login.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

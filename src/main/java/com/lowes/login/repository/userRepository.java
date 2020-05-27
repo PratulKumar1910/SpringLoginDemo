@@ -1,6 +1,6 @@
-package com.lowes.demo.login.repository;
+package com.lowes.login.repository;
 
-import com.lowes.demo.login.model.User;
+import com.lowes.login.repository.model.User;
 import org.springframework.boot.autoconfigure.data.jpa.JpaRepositoriesAutoConfiguration;
 import org.springframework.stereotype.Repository;
 
